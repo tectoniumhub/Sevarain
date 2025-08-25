@@ -70,7 +70,9 @@ Here is using both letter and IPA (International Phonetic Alphabets) for sounds.
 In here, "F" and "Ph" pronounce as the same. It does not contain many aspirations like other languages do. "C" often pronounces as "tʃ" while "X" pronounces as "χ" and every vowels have its tones. In the table, it did not mention all tones, so here is mentioned below
 
 **SHORTER VOWELS:** A, E, I, O, U
+
 **LONGER VOWELS:** Ā, Ē, Ī, Ō, Ū
+
 **SPECIAL TONES:** Ä, Ë, Ï, Ö, Ü
 
 It contains symbols, such as [] " , ' : ; ! ? () {} - _ . &
