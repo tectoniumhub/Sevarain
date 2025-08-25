@@ -48,7 +48,7 @@ Here is using both letter and IPA (International Phonetic Alphabets) for sounds.
     <td>Ṭ (ʈ)</td><td>Š (ʃ)</td><td>Zh (ʒ)</td>
   </tr>
   <tr>
-    <td>Tš (tʃʰ)</td><td>Ph</td><td>Ng</td>
+    <td>Ṭš (tʃʰ)</td><td>Ph</td><td>Ng</td>
   </tr>
   <tr>
     <td>Th</td><td>Ṭh (ʈʰ)</td><td>Ai</td>
@@ -69,8 +69,16 @@ Here is using both letter and IPA (International Phonetic Alphabets) for sounds.
 
 In here, "F" and "Ph" pronounce as the same. It does not contain many aspirations like other languages do. "C" often pronounces as "tʃ" while "X" pronounces as "χ" and every vowels have its tones. In the table, it did not mention all tones, so here is mentioned below
 
-**SHORTER VOWELS:** A, E, I, O, U
-**LONGER VOWELS:** Ā, Ē, Ī, Ō, Ū
-**SPECIAL TONES:** Ä, Ë, Ï, Ö, Ü
+<text>
+  <b>SHORTER PRONUNCIATION:</b> A, E, I, O, U
+</text>
+<text>
+  <b>LONGER PRONUNCIATION:</b> Ā, Ē, Ī, Ō, Ū
+</text>
+<p>
+  <b>TONAL PRONUNCIATION:</b> Ä, Ë, Ï, Ö, Ü
+</p>
 
 It contains symbols, such as [] " , ' : ; ! ? () {} - _ . &
+
+In the time of initialisation, the "Ng" often would pronounce as "ŋ" while at the termination of a text would pronounce as "Ng" but in the middle time, it depends on vowels marks
