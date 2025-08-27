@@ -10,3 +10,6 @@ Examples:
 | Tām (Go) | Tāmsmā (Went) | Tāmsnā (Will go ) |
 | Rē (Come) | Rēsmā (Came) | Rēsnā (Will come ) |
 | Qwē (Walk) | Qwēsmā (Walked) | Qwēsnā (Will walk) |
+
+### STRUCTURE
+The order should be in SVO (Subject-Verb-Object)
