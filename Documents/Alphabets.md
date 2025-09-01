@@ -63,11 +63,11 @@ Here is using both letter and IPA (International Phonetic Alphabets) for sounds.
     <td>Ï</td><td>O (ɔ)</td><td>Ō</td>
   </tr>
   <tr>
-    <td>Ñ</td><td>Jh (dʒʰ)</td>
+    <td>Ñ</td><td>Jh (dʒʰ)</td><td>Ġ (ɣ)</td>
   </tr>
 </table>
 
-In here, "F" and "Ph" pronounce as the same. It does not contain many aspirations like other languages do. "C" often pronounces as "tʃ" while "X" pronounces as "χ" and every vowels have its tones. In the table, it did not mention all tones, so here is mentioned below
+In here, "F" and "Ph" pronounce as the same. It does not contain many aspirations like other languages do. "C" often pronounces as "tʃ" while "X" pronounces as "χ" and every vowels have its tones. "W" is a semi vowel but "V" is not a semi vowel. In the table, it did not mention all tones, so here is mentioned below
 
 <text>
   <b>SHORTER PRONUNCIATION:</b> A, E, I, O, U
