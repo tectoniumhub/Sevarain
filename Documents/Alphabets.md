@@ -48,7 +48,7 @@ Here is using both letter and IPA (International Phonetic Alphabets) for sounds.
     <td>Ṭ (ʈ)</td><td>Š (ʃ)</td><td>Zh (ʒ)</td>
   </tr>
   <tr>
-    <td>Ṭš (tʃʰ)</td><td>Ph</td><td>Ng</td>
+    <td>Tš (tʃʰ)</td><td>Ph</td><td>Ng</td>
   </tr>
   <tr>
     <td>Th</td><td>Ṭh (ʈʰ)</td><td>Ai</td>
